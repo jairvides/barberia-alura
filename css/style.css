@@ -9,10 +9,7 @@ header {
 
 .caja {
     width: 940px;
-    display: relative;
-    flex-direction: row;
-    align-items: top;
-    justify-content: center;
+    position: relative;
     margin: 0 auto;
 }
 
@@ -24,7 +21,7 @@ nav {
 
 nav li {
     display: inline;
-    margin: 0 0 0 15px
+    margin: 0 0 0 15px;
 }
 
 nav a {
@@ -88,8 +85,7 @@ nav a:hover {
 
 footer {
     text-align: center;
-    color: white;
-    background: url(imagenes/bg.jpg);
+    background: url(../imagenes/bg.jpg);
     padding: 40px;
 }
 
@@ -100,6 +96,7 @@ footer {
 }
 
 /* CSS para página contacto */
+
 form {
     margin: 40px 0;
 }
@@ -134,7 +131,6 @@ form legend {
     border-radius: 5px;
     transition: 1s all;
     cursor: pointer;
-    text-align: center;
 }
 
 .enviar:hover {
