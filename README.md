@@ -3,7 +3,7 @@
 Gracias a los conocimientos impartidos por el tutor [**Christian Velasco**](https://www.linkedin.com/in/christianpva/)
 
 
-Marco del proyecto "**ALURA - LATAM y ONE - ORACLE NEXT EDUCATION.**"
+Marco del proyecto [**ALURA - LATAM**](https://www.linkedin.com/company/alura-latam/) y  [**ONE - ORACLE NEXT EDUCATION**](https://www.linkedin.com/company/oracle/).
 
 ---
 ### Presento el proyecto final de los cursos Curso de:
