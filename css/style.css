@@ -9,10 +9,7 @@ header {
 
 .caja {
     width: 940px;
-    display: relative;
-    flex-direction: row;
-    align-items: top;
-    justify-content: center;
+    position: relative;
     margin: 0 auto;
 }
 
@@ -100,6 +97,11 @@ footer {
 }
 
 /* CSS para página contacto */
+main {
+    width: 940px;
+    margin: 0 auto;
+}
+
 form {
     margin: 40px 0;
 }
