@@ -1,6 +1,7 @@
 # PROYECTO BARBERÍA - ALURA
 
-Gracias a los conocimientos impartidos por el tutor "**Christian Velasco**"
+Gracias a los conocimientos impartidos por el tutor [**Christian Velasco**](https://www.linkedin.com/in/christianpva/)
+
 
 Marco del proyecto "**ALURA - LATAM y ONE - ORACLE NEXT EDUCATION.**"
 
